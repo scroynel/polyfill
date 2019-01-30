@@ -1,0 +1,25 @@
+*, html, body{margin: 0; padding: 0;list-style: none;text-decoration: none;box-sizing: border-box; outline:none;}
+.main {
+    width: 300px;
+    border: solid black 1px;
+    padding: 10px;
+    overflow: hidden;
+    height: 45px;
+    cursor: pointer;
+    margin: 50px
+}
+
+.main p {
+    text-align: justify;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
